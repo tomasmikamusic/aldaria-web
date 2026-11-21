@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aldaria.com.ar/sitemap.xml
